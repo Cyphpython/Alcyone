@@ -15,7 +15,7 @@
 }
 .alcyone {
     position: absolute;
-    top: 20%;
+    top: 23%;
     left: 6%;
     transform: translate(-50%, -50%);
     width: 30%;
@@ -98,7 +98,7 @@
 .didi{
     z-index: 1;
     position: absolute;
-    top: 20%;
+    top: 23%;
     left: 70%;
     transform: translate(-50%, -50%);
     height: 10%;
@@ -107,7 +107,7 @@
 .stm{
     z-index: 1;
     position: absolute;
-    top: 20%;
+    top: 23%;
     left: 80%;
     transform: translate(-50%, -50%);
     height: 10%;
